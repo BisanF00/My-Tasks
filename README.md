@@ -2,11 +2,11 @@
 
 ### Wireframe Design :
 
-![Homepage](https://miro.com/app/board/uXjVI3_3u6M=/?moveToWidget=3458764628604162289&cot=14)
+![Homepage](/images/homepage.png)
 
-![Aboutpage](https://miro.com/app/board/uXjVI3_3u6M=/?moveToWidget=3458764628605816042&cot=14)
+![Aboutpage](/images/aboutpage1.png)
 
-~[Aboutpage2](https://miro.com/app/board/uXjVI3_3u6M=/?moveToWidget=3458764628606823777&cot=14)
+![Aboutpage2](/images/aboutpage2.png)
 
 
 #### What observations or questions do you have about what you've learned so far?
