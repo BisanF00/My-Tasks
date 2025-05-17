@@ -2,11 +2,11 @@
 
 ### Wireframe :
 
-![Homepage](image.png)
+![Homepage](/images/homepage.png)
 
-![Aboutpage](image-1.png)
+![Aboutpage](/images/aboutpage1.png)
 
-![Aboutpage2](image-2.png)
+![Aboutpage2](/images/aboutpage2.png)
 
 
 #### What observations or questions do you have about what you've learned so far?
